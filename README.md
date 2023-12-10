@@ -1,2 +1,0 @@
-# Utica-project
-project
